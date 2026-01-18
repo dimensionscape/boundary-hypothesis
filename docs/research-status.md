@@ -15,7 +15,7 @@ These are conditional mathematical results. Their proofs and assumptions appear 
 
 ## Open questions
 
-The key origin step is H3: whether positive actuality can obtain with no antecedent actuality. Removing restrictions does not by itself prove realization, and the mathematical examples begin with positive structure.
+The origin argument in Section 2.1 proposes that universal non-realization requires an operative exclusion, which absolute absence cannot supply. Its substantive premise O1 needs philosophical assessment. H3 separately concerns whether positive actuality can obtain with no antecedent actuality. The mathematical examples begin with positive structure and do not establish either claim.
 
 The benchmark response laws, capacities, and parameters also require physical motivation. The examples show how constraints can depend on structure, but do not derive the particular laws or constants of our universe.
 
@@ -23,4 +23,4 @@ A cosmological version would need physical degrees of freedom, a spacetime or pr
 
 ## Scope of this release
 
-Version 1.0.0 contains the consolidated manuscript and calculations directly relevant to it. Earlier working drafts and abandoned reformulations are outside this release. The release does not claim external peer review or experimental confirmation.
+Version 1.0.1 contains the consolidated manuscript, the explicit origin argument, a plain-language companion, and calculations directly relevant to the manuscript. Earlier working drafts and abandoned reformulations are outside this release. The release does not claim external peer review or experimental confirmation.

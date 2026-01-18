@@ -234,7 +234,7 @@ class Cover(Flowable):
         c.drawString(0, 69, 'Complete argument, proofs, calculations, and reproducibility appendix')
         c.setFillColor(GOLD)
         c.setFont('Meta', 8)
-        c.drawString(0, 37, 'VERSION 1.0.0')
+        c.drawString(0, 37, 'VERSION 1.0.1')
         c.drawRightString(WIDTH, 37, 'JANUARY 18, 2026')
         c.restoreState()
 
@@ -363,7 +363,7 @@ def render(total=None):
         canvas.setStrokeColor(colors.HexColor('#C9D3CC'))
         canvas.setLineWidth(0.5)
         canvas.line(MARGIN, 40, PAGE_W - MARGIN, 40)
-        canvas.drawString(MARGIN, 25, 'JANUARY 18, 2026  /  V1.0.0')
+        canvas.drawString(MARGIN, 25, 'JANUARY 18, 2026  /  V1.0.1')
         label = f'{doc.page:02d}' if total is None else f'{doc.page:02d} / {total:02d}'
         canvas.setFillColor(TEAL)
         canvas.drawRightString(PAGE_W - MARGIN, 25, label)

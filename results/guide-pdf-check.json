@@ -1,0 +1,12 @@
+{
+  "source": "docs/laymans-guide.md",
+  "pdf": "output/pdf/boundary-hypothesis-laymans-guide.pdf",
+  "pages": 3,
+  "author": "Christopher Speciale",
+  "paper_date": "2026-01-18",
+  "source_words": 905,
+  "source_sha256": "5ad520deb8bebcfa4fe25012921afdb6b5c0e9baf480a1dd10baeb02064d5632",
+  "pdf_sha256": "02bc111c6845e1db13bf1dc0fcdaa15dfbe2db1e0e71d915caedb019a39fc84a",
+  "text_checks_passed": true,
+  "visual_review": "All 3 pages rendered at 110 dpi and inspected; no clipping, overlaps, or missing glyphs observed."
+}

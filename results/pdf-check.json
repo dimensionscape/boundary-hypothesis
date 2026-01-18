@@ -3,7 +3,7 @@
   "source": "manuscript/paper.md",
   "author": "Christopher Speciale",
   "pages": 23,
-  "source_words": 10067,
+  "source_words": 10517,
   "numbered_equations": 18,
   "propositions": 11,
   "embedded_files": [
@@ -31,16 +31,17 @@
   "missing_font_glyphs": [],
   "text_checks_passed": true,
   "smallest_equation_scale": 1.0,
-  "source_sha256": "29addf92b8434df705dbb7253dff53b87b9f4eabc8a83d5dfe56504846e00807",
-  "pdf_sha256": "64d34f811496e86c252f6cfdbb51ee49113e3e7a75fce749f54eeb13360fde90",
-  "visual_review": "All 23 rendered pages inspected; no clipping, overlap, or missing glyphs observed.",
+  "source_sha256": "ca24ea03085238ca36f93626dbd005daa2e7f5891bf32a92b333c8c094cfddcc",
+  "pdf_sha256": "4a1d120dede82f1f355004d2261f9e90f38209f572e3362a13c132694a692645",
+  "visual_review": "All 23 pages rendered at 100 dpi and inspected; no clipping, overlaps, or missing glyphs observed.",
   "headings": [
     "Abstract",
     "1. The hypothesis and its intended explanation",
     "1.1 Terminology and scope",
     "2. The genesis boundary and the status of the origin argument",
-    "2.1 What a rooted representation establishes",
-    "2.2 The stronger self-collapse conjecture",
+    "2.1 The proposed reason for realization",
+    "2.2 What a rooted representation establishes",
+    "2.3 The stronger self-collapse conjecture",
     "3. A common architecture for structural development",
     "3.1 Determinacy and causation",
     "4. A finite fermionic benchmark",
@@ -71,7 +72,5 @@
     "Appendix C. Verification scope and numerical record",
     "Appendix D. Complete verification program",
     "References"
-  ],
-  "render_resolution_dpi": 100,
-  "paper_date": "2026-01-18"
+  ]
 }

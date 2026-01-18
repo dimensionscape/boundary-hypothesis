@@ -46,3 +46,11 @@ The build first verifies the executable appendix, then produces `output/pdf/boun
 Fonts come from the installed Matplotlib distribution, so the build does not require a particular operating system's fonts. Intermediate files are placed in the ignored `tmp/` directory. The paper's declared date is January 18, 2026.
 
 The numerical and PDF structure checks do not replace visual review. Inspect a fresh render after changing the manuscript, typography, or build dependencies.
+
+## Plain-language companion
+
+```sh
+python scripts/build_guide_pdf.py
+```
+
+The guide uses the same PDF dependencies. Its editable source is `docs/laymans-guide.md`; the three-page output is `output/pdf/boundary-hypothesis-laymans-guide.pdf`. The build writes its text and layout-check record to `results/guide-pdf-check.json`. The companion summarizes the main paper without reproducing its equations or changing its claims.

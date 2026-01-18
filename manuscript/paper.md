@@ -6,7 +6,7 @@ Research manuscript - January 18, 2026
 
 ## Abstract
 
-This paper proposes that existence has a genesis without antecedent actuality, and investigates how constraints established with actuality could stabilize its subsequent development. Absolute nothingness means the absence of all positive actuality, including physical laws, fields, spacetime, and producers. It is represented by a boundary claim, not an earlier physical state. The absence of antecedent restrictions motivates the origin hypothesis; the inference from absence to possible realization remains an explicit conjecture. Subsequent development is represented by positive structures whose properties determine admission constraints. A finite fermionic construction gives exact formulas for additions, closure times, and continuing internal dynamics after the addition channels close. A separate packing model shows how infinitely many candidate forms can coexist with finite occupancy, and establishes eventual closure under explicit accessibility assumptions, including biased, history-dependent exploration. Further results distinguish exact closure from operational stability and exhibit finite-start and beginningless histories with identical represented futures. The deductions, proofs, worked calculations, and a verification program are included. A conditional cosmological interface states how a physical version would have to connect structural development with spacetime, conserved stress-energy, and an expanding early universe. The models establish compatibility of the proposed post-genesis behaviors under stated assumptions. They do not establish inevitable realization, identify the first physical structure, or demonstrate that a Big Bang originated in this way.
+This paper proposes that existence has a genesis without antecedent actuality, and investigates how constraints established with actuality could stabilize its subsequent development. Absolute nothingness means the absence of all positive actuality, including physical laws, fields, spacetime, and producers. It is represented by a boundary claim, not an earlier physical state. The proposed origin argument is that universal non-realization requires an operative restriction, while absolute absence has no actual properties to bear one. Its exclusion premise and source-free interpretation are stated explicitly for philosophical assessment. Subsequent development is represented by positive structures whose properties determine admission constraints. A finite fermionic construction gives exact formulas for additions, closure times, and continuing internal dynamics after the addition channels close. A separate packing model shows how infinitely many candidate forms can coexist with finite occupancy, and establishes eventual closure under explicit accessibility assumptions, including biased, history-dependent exploration. Further results distinguish exact closure from operational stability and exhibit finite-start and beginningless histories with identical represented futures. The deductions, proofs, worked calculations, and a verification program are included. A conditional cosmological interface states how a physical version would have to connect structural development with spacetime, conserved stress-energy, and an expanding early universe. The models establish compatibility of the proposed post-genesis behaviors under stated assumptions. They do not establish inevitable realization, identify the first physical structure, or demonstrate that a Big Bang originated in this way.
 
 ## 1. The hypothesis and its intended explanation
 
@@ -18,7 +18,7 @@ The mnemonic Nothing -> Everything -> Something records this proposal. Nothing d
 
 Two distinctions prevent changes of subject. A physical vacuum is already an actual structure with properties. It therefore cannot stand in for absolute nothingness. Also, the statement that all existence originates without antecedent actuality does not entail that every coherent description is an existing world. A plenitude of actual worlds is an additional hypothesis, unnecessary for the constructions here. Parfit discusses such maximality principles as possible explanations of existence [1]. This paper retains the source-free genesis question and the development of constraints as its central subjects.
 
-The distinction between an origin without a cause and an origin caused by a thing called nothing is equally important. Hume explicitly separates the ideas of beginning to exist and having a cause [2]. Nothingness is not assigned productive agency here. The proposed absence is an enabling condition in the author's hypothesis: no antecedent actual restriction must be overcome. Whether that condition is sufficient for realization is the principal unresolved origin question.
+The distinction between an origin without a cause and an origin caused by a thing called nothing is equally important. Hume explicitly separates the ideas of beginning to exist and having a cause [2]. Nothingness is not assigned productive agency here. The proposed reason for realization is that universal non-realization would itself require a restriction, while absolute absence has no properties capable of imposing one. Section 2.1 develops this argument and identifies its substantive premise.
 
 ### 1.1 Terminology and scope
 
@@ -42,11 +42,31 @@ The origin argument can be stated without inserting a physical state of nothingn
 
 H1 and H2 jointly remove one class of obstacle to genesis. H3 states the substantive bridge from that absence to possible realization. It is not a consequence of H1 and H2 alone. Logical consistency, modal principles, or a proposed necessary dependence would require separate assessment. Equally, a universal requirement for an earlier producer is not assumed: extending familiar within-universe production requirements to genesis would itself need justification.
 
-The thesis seeks an explanation, rather than merely a label for an unexplained first event. It proposes that absence of antecedent restrictions has explanatory significance. H3 is a claim of possible source-free realization; the explanatory thesis applies that claim to the origin of actual existence. The stronger assertion that realization is inevitable would additionally need a reason why non-realization requires a constraint, or some other argument excluding total absence. None of these steps is supplied by assigning a probability to a physical vacuum or by counting possible descriptions. No probability measure on nonactual possibilities is assumed here.
+The thesis seeks an explanation, rather than merely a label for an unexplained first event. H3 states possible source-free realization. The proposed argument for that claim gives the absence of antecedent restrictions explanatory significance: it challenges the assumption that total non-realization can obtain without anything requiring it. The argument is developed below as a conditional philosophical inference, distinct from the subsequent mathematical constructions. No probability measure on nonactual possibilities is assumed.
 
 An internally consistent representation supports a conditional mathematical conclusion. A further interpretation identifies what its objects would be physically. A further philosophical argument would justify the possibility of that whole obtaining without antecedent actuality. These are distinct obligations. Chalmers's analysis of conceivability and possibility illustrates why a move between the first and third requires care [3]. This paper does not infer physical or metaphysical realization merely from the existence of symbols.
 
-### 2.1 What a rooted representation establishes
+### 2.1 The proposed reason for realization
+
+The motivating claim is stronger than the observation that something is not forbidden. It proposes an asymmetry between realization and universal non-realization. Realization establishes determinate properties and relations. Absolute absence supplies none, including no property that requires the exclusion of every realization. The thesis argues that treating non-realization as an exhaustive alternative would assign it an exclusion that it has no actual basis to impose.
+
+The argument can be separated into three premises:
+
+**O1. Exclusion premise.** Universal non-realization requires an operative restriction excluding every realization; it cannot obtain as a complete alternative without such a restriction.
+
+**O2. Dependence of restriction.** An operative restriction of the kind asserted in O1 requires actual properties or relations that bear it.
+
+**O3. Absolute absence.** Absolute nothingness contains no actual properties or relations, including no disposition to preserve non-realization.
+
+If O1-O3 hold, total absence cannot supply what O1 requires for universal non-realization. Assuming a complete alternative with nothing actual would require a restriction by O1 and an actual bearer by O2, contradicting O3. Under these premises, some actuality must obtain. The hypothesis interprets the absence of an exclusion as explanatory of realization, without introducing an actual producer called nothing.
+
+This is the reason proposed for the expression nothing to stop everything. Everything denotes nonactual possibility here. The argument does not infer that every candidate becomes actual or that contradictory forms coexist. The properties of whichever structure obtains can already exclude other forms.
+
+O1 carries the disputed philosophical commitment. Describing an alternative in which nothing obtains does not, by logic alone, describe a prohibition against things obtaining. The argument requires the further claim that universal non-realization needs such a prohibition. The thesis motivates that claim by refusing to assign absence an unexplained capacity to exclude actuality. Whether non-realization needs any operative exclusion at all remains the exact issue for assessment. H1-H2 alone do not settle it.
+
+The conditional conclusion also differs from a proof of a first causal event. Excluding total non-realization would still leave beginningless actuality as an alternative. H3 separately articulates source-free admission, while a first physical packet and its causal structure require further specification. On the proposed boundary interpretation, absolute nothingness never becomes an earlier actual state: the argument assigns it no waiting period, dynamics, or productive agency.
+
+### 2.2 What a rooted representation establishes
 
 Let an event domain E have a strict causal order, and let g be a minimal positive packet. A history can have g and later events without containing an earlier empty event. A clock, if used, belongs to the positive packet and its development. Mathematical parameters specifying such a history describe its positive content; they are not an actual law operating before actuality.
 
@@ -58,9 +78,9 @@ The interpretation that g has no external producer or ground is an explicit boun
 
 More generally, a nonempty well-founded dependence relation has a minimal member, by the definition of well-foundedness. Existing actuality alone does not establish that the complete dependence relation is well-founded, uniquely rooted, or exhausted by temporal causation. No proof of a unique absolute beginning is inferred from that conditional observation.
 
-### 2.2 The stronger self-collapse conjecture
+### 2.3 The stronger self-collapse conjecture
 
-The motivating intuition is that nothing enforces continued non-realization when nothing is actual. Its strongest interpretation is that total absence cannot obtain as a complete alternative. That is stronger than H3. It would require a reason that absence of restrictions entails some realization, rather than merely failing to prohibit it.
+The motivating intuition is that nothing enforces continued non-realization when nothing is actual. Its strongest interpretation is that total absence cannot obtain as a complete alternative. That is stronger than H3. Section 2.1 states the proposed route to that conclusion: O1 connects universal non-realization with an operative restriction, and O2-O3 exclude such a restriction in absolute absence. The conclusion is conditional on that substantive origin principle.
 
 Stability and instability ordinarily describe states relative to a response law. Since no physical state or response law is assigned to absence, self-collapse cannot be introduced as an ordinary dynamical instability of nothingness. It can be retained as a name for the stronger conjecture just stated. The models below concern the development of actuality and provide no duration, decay rate, or probability of collapse for absence itself.
 
@@ -362,7 +382,7 @@ The principal commitments and their consequences can be summarized as follows.
 
 | Component | Assumption or task | Result within this paper |
 |---|---|---|
-| Genesis | H3 admits positive actuality without antecedent actuality | A stated origin hypothesis, not an inevitability proof |
+| Genesis | H3 admits source-free actuality; O1-O3 articulate the proposed reason for realization | A conditional origin argument whose exclusion premise requires assessment |
 | Structural feedback | Relevant properties fix the represented response | Factorization criterion and explicit state-dependent admission |
 | Finite quantum benchmark | Finite modes, no losses, positive gain, number-preserving ordinary response | Exact closure statistics with continuing internal dynamics |
 | Packing benchmark | Bounded attribute range, positive exclusion scale, persistent accessibility | Finite capacity and almost-sure persistent closure |
@@ -372,11 +392,11 @@ The principal commitments and their consequences can be summarized as follows.
 
 Several failures are immediate. Infinite mode dimension removes the finite-capacity proof. Losses or number-changing ordinary response can reopen channels. Zero gain can leave admitted additions unrealized. A trivial internal generator produces no distinguishable closed-sector motion. Weakening accessibility can prevent maximum packing. Changing past response can defeat a finite-duration inference. Identical represented futures carry no likelihood distinction between the coupled origin histories.
 
-Three tasks would materially advance the account. The origin argument needs independent support for H3, with its scope clearly specified. The structural models need physically motivated content rather than additional adjustable rules. A cosmological version needs a consequence tied to those independently motivated assumptions and a comparison with alternatives. Repeating successful mathematical examples alone would not complete those tasks.
+Three tasks would materially advance the account. The origin argument needs an assessment of O1 and support for the source-free admission claim H3, with their different scopes preserved. The structural models need physically motivated content rather than additional adjustable rules. A cosmological version needs a consequence tied to those independently motivated assumptions and a comparison with alternatives. Repeating successful mathematical examples alone would not complete those tasks.
 
 ## 11. Conclusion
 
-The boundary hypothesis proposes that all physical actuality ultimately originates without antecedent actuality, and that properties and relations established with actuality constrain its further development. The origin claim remains a motivated conjecture. The constructions establish that structure-dependent admission, exact or operational stabilization, and continuing ordinary activity are mathematically compatible under explicit assumptions. They do not supply a mechanism acting on a preexisting state of nothingness.
+The boundary hypothesis proposes that all physical actuality ultimately originates without antecedent actuality, and that properties and relations established with actuality constrain its further development. Its origin argument proposes that universal non-realization would require an operative restriction that absolute absence cannot supply. This is a conditional argument resting on the exclusion premise O1, alongside the source-free admission conjecture H3. The mathematical constructions establish compatibility of structure-dependent admission, exact or operational stabilization, and continuing ordinary activity under explicit assumptions. They do not supply a mechanism acting on a preexisting state of nothingness.
 
 The infinite-to-finite question has a precise conditional answer in the packing example: infinitely many candidate labels need not permit infinitely many compatible actual forms when a positive exclusion scale and bounded range are present. The origin of those structural properties is a separate question. The retrospective results also explain why a stable later universe would not by itself identify its origin.
 

@@ -1,6 +1,6 @@
 {
   "source": "manuscript/paper.md",
-  "source_sha256": "29addf92b8434df705dbb7253dff53b87b9f4eabc8a83d5dfe56504846e00807",
+  "source_sha256": "ca24ea03085238ca36f93626dbd005daa2e7f5891bf32a92b333c8c094cfddcc",
   "verification_program": "scripts/verify.py",
   "verification_program_sha256": "5a3c57b58aab4f241ccd068dd0467d7c33b7d00268686b6e90721fcb1e9cb0d9",
   "equations": 18,
