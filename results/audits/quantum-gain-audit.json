@@ -1,0 +1,86 @@
+{
+  "scope": "Finite gain-response identities, occupation probabilities, and closure-time law; no source-free-origin or empirical validation.",
+  "operator_cases": [
+    {
+      "modes": 1,
+      "exact_adjoint_number_identity": true,
+      "full_sector_dissipation_zero": true
+    },
+    {
+      "modes": 2,
+      "exact_adjoint_number_identity": true,
+      "full_sector_dissipation_zero": true
+    },
+    {
+      "modes": 3,
+      "exact_adjoint_number_identity": true,
+      "full_sector_dissipation_zero": true
+    },
+    {
+      "modes": 4,
+      "exact_adjoint_number_identity": true,
+      "full_sector_dissipation_zero": true
+    },
+    {
+      "modes": 5,
+      "exact_adjoint_number_identity": true,
+      "full_sector_dissipation_zero": true
+    }
+  ],
+  "operator_arithmetic": "exact integer",
+  "count_probability_cases": 56,
+  "maximum_forward_equation_error": 8.359448116362911e-14,
+  "maximum_mean_error": 2.6645352591003757e-15,
+  "mean_integral_cases": [
+    {
+      "vacant_channels": 1,
+      "mean_time_times_per_channel_rate": "1"
+    },
+    {
+      "vacant_channels": 2,
+      "mean_time_times_per_channel_rate": "3/2"
+    },
+    {
+      "vacant_channels": 3,
+      "mean_time_times_per_channel_rate": "11/6"
+    },
+    {
+      "vacant_channels": 4,
+      "mean_time_times_per_channel_rate": "25/12"
+    },
+    {
+      "vacant_channels": 5,
+      "mean_time_times_per_channel_rate": "137/60"
+    },
+    {
+      "vacant_channels": 6,
+      "mean_time_times_per_channel_rate": "49/20"
+    },
+    {
+      "vacant_channels": 7,
+      "mean_time_times_per_channel_rate": "363/140"
+    },
+    {
+      "vacant_channels": 8,
+      "mean_time_times_per_channel_rate": "761/280"
+    },
+    {
+      "vacant_channels": 9,
+      "mean_time_times_per_channel_rate": "7129/2520"
+    },
+    {
+      "vacant_channels": 10,
+      "mean_time_times_per_channel_rate": "7381/2520"
+    },
+    {
+      "vacant_channels": 11,
+      "mean_time_times_per_channel_rate": "83711/27720"
+    },
+    {
+      "vacant_channels": 12,
+      "mean_time_times_per_channel_rate": "86021/27720"
+    }
+  ],
+  "mean_integral_arithmetic": "exact rational",
+  "checks_passed": true
+}

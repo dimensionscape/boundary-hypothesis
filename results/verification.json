@@ -1,0 +1,16 @@
+{
+  "operator_cases": 5,
+  "count_cases": 63,
+  "max_forward_error": 2.599458501268304e-13,
+  "exact_harmonic_cases": 16,
+  "packing_fractions": [
+    "35819/80000",
+    "148/1225",
+    "749/512000"
+  ],
+  "mean_opportunities": 694.0885826860218,
+  "packing_integral_cases": 70,
+  "composition_cases": 72,
+  "matched_future_thresholds": 20001,
+  "checks_passed": true
+}

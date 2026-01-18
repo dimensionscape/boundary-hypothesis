@@ -1,0 +1,13 @@
+{
+  "source": "manuscript/paper.md",
+  "source_sha256": "29addf92b8434df705dbb7253dff53b87b9f4eabc8a83d5dfe56504846e00807",
+  "verification_program": "scripts/verify.py",
+  "verification_program_sha256": "5a3c57b58aab4f241ccd068dd0467d7c33b7d00268686b6e90721fcb1e9cb0d9",
+  "equations": 18,
+  "proved_propositions": 11,
+  "appendices": 4,
+  "references": 13,
+  "executable_appendix_matches": true,
+  "verification_table_matches": true,
+  "checks_passed": true
+}

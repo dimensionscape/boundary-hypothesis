@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite the manuscript if you use this work."
+type: article
+title: "A boundary hypothesis for genesis and structural stabilization"
+authors:
+  - family-names: Speciale
+    given-names: Christopher
+version: 1.0.0
+date-released: 2026-01-18
+url: "https://github.com/dimensionscape/boundary-hypothesis"
+repository-code: "https://github.com/dimensionscape/boundary-hypothesis"
+abstract: >-
+  A source-free origin hypothesis and conditional mathematical models of
+  structural admission, stabilization, continuing dynamics, and limits on
+  retrospective origin inference, with a proposed interface to cosmology.
+keywords:
+  - origin of existence
+  - structural stabilization
+  - cosmology
+  - mathematical philosophy

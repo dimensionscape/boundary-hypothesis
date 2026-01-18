@@ -1,0 +1,345 @@
+{
+  "scope": "Conditional finite-dimensional response and restricted addition closure; no concrete source-free realization, cosmological prediction, or empirical validation.",
+  "seed": 20261013,
+  "symmetry_constraint_arithmetic": "Exact rational row reduction of integer constraint matrices",
+  "symmetry_cases": [
+    {
+      "dimension": 1,
+      "spectrum_pattern": [
+        1
+      ],
+      "exact_constraint_rank": 0,
+      "invariant_hermitian_dimension": 1,
+      "distinct_eigenvalues": 1
+    },
+    {
+      "dimension": 1,
+      "spectrum_pattern": [
+        2
+      ],
+      "exact_constraint_rank": 0,
+      "invariant_hermitian_dimension": 1,
+      "distinct_eigenvalues": 1
+    },
+    {
+      "dimension": 2,
+      "spectrum_pattern": [
+        1,
+        0
+      ],
+      "exact_constraint_rank": 2,
+      "invariant_hermitian_dimension": 2,
+      "distinct_eigenvalues": 2
+    },
+    {
+      "dimension": 2,
+      "spectrum_pattern": [
+        1,
+        1
+      ],
+      "exact_constraint_rank": 3,
+      "invariant_hermitian_dimension": 1,
+      "distinct_eigenvalues": 1
+    },
+    {
+      "dimension": 2,
+      "spectrum_pattern": [
+        1,
+        2
+      ],
+      "exact_constraint_rank": 2,
+      "invariant_hermitian_dimension": 2,
+      "distinct_eigenvalues": 2
+    },
+    {
+      "dimension": 3,
+      "spectrum_pattern": [
+        1,
+        0,
+        0
+      ],
+      "exact_constraint_rank": 7,
+      "invariant_hermitian_dimension": 2,
+      "distinct_eigenvalues": 2
+    },
+    {
+      "dimension": 3,
+      "spectrum_pattern": [
+        1,
+        1,
+        1
+      ],
+      "exact_constraint_rank": 8,
+      "invariant_hermitian_dimension": 1,
+      "distinct_eigenvalues": 1
+    },
+    {
+      "dimension": 3,
+      "spectrum_pattern": [
+        1,
+        1,
+        2
+      ],
+      "exact_constraint_rank": 7,
+      "invariant_hermitian_dimension": 2,
+      "distinct_eigenvalues": 2
+    },
+    {
+      "dimension": 3,
+      "spectrum_pattern": [
+        1,
+        2,
+        2
+      ],
+      "exact_constraint_rank": 7,
+      "invariant_hermitian_dimension": 2,
+      "distinct_eigenvalues": 2
+    },
+    {
+      "dimension": 3,
+      "spectrum_pattern": [
+        1,
+        2,
+        3
+      ],
+      "exact_constraint_rank": 6,
+      "invariant_hermitian_dimension": 3,
+      "distinct_eigenvalues": 3
+    },
+    {
+      "dimension": 4,
+      "spectrum_pattern": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "exact_constraint_rank": 14,
+      "invariant_hermitian_dimension": 2,
+      "distinct_eigenvalues": 2
+    },
+    {
+      "dimension": 4,
+      "spectrum_pattern": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "exact_constraint_rank": 15,
+      "invariant_hermitian_dimension": 1,
+      "distinct_eigenvalues": 1
+    },
+    {
+      "dimension": 4,
+      "spectrum_pattern": [
+        1,
+        1,
+        2,
+        2
+      ],
+      "exact_constraint_rank": 14,
+      "invariant_hermitian_dimension": 2,
+      "distinct_eigenvalues": 2
+    },
+    {
+      "dimension": 4,
+      "spectrum_pattern": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "exact_constraint_rank": 12,
+      "invariant_hermitian_dimension": 4,
+      "distinct_eigenvalues": 4
+    },
+    {
+      "dimension": 5,
+      "spectrum_pattern": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "exact_constraint_rank": 23,
+      "invariant_hermitian_dimension": 2,
+      "distinct_eigenvalues": 2
+    },
+    {
+      "dimension": 5,
+      "spectrum_pattern": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "exact_constraint_rank": 24,
+      "invariant_hermitian_dimension": 1,
+      "distinct_eigenvalues": 1
+    },
+    {
+      "dimension": 5,
+      "spectrum_pattern": [
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "exact_constraint_rank": 23,
+      "invariant_hermitian_dimension": 2,
+      "distinct_eigenvalues": 2
+    },
+    {
+      "dimension": 5,
+      "spectrum_pattern": [
+        1,
+        1,
+        2,
+        2,
+        3
+      ],
+      "exact_constraint_rank": 22,
+      "invariant_hermitian_dimension": 3,
+      "distinct_eigenvalues": 3
+    },
+    {
+      "dimension": 5,
+      "spectrum_pattern": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "exact_constraint_rank": 20,
+      "invariant_hermitian_dimension": 5,
+      "distinct_eigenvalues": 5
+    },
+    {
+      "dimension": 6,
+      "spectrum_pattern": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "exact_constraint_rank": 34,
+      "invariant_hermitian_dimension": 2,
+      "distinct_eigenvalues": 2
+    },
+    {
+      "dimension": 6,
+      "spectrum_pattern": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "exact_constraint_rank": 35,
+      "invariant_hermitian_dimension": 1,
+      "distinct_eigenvalues": 1
+    },
+    {
+      "dimension": 6,
+      "spectrum_pattern": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "exact_constraint_rank": 34,
+      "invariant_hermitian_dimension": 2,
+      "distinct_eigenvalues": 2
+    },
+    {
+      "dimension": 6,
+      "spectrum_pattern": [
+        1,
+        1,
+        2,
+        2,
+        3,
+        3
+      ],
+      "exact_constraint_rank": 33,
+      "invariant_hermitian_dimension": 3,
+      "distinct_eigenvalues": 3
+    },
+    {
+      "dimension": 6,
+      "spectrum_pattern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "exact_constraint_rank": 30,
+      "invariant_hermitian_dimension": 6,
+      "distinct_eigenvalues": 6
+    }
+  ],
+  "rotated_state_checks": 384,
+  "maximum_stationarity_commutator_norm": 1.0947470508310522e-15,
+  "maximum_nonunitary_counterexample_covariance_error": 4.440892098500626e-16,
+  "capacity_cases": [
+    {
+      "modes": 1,
+      "full_sector_dimension": 2,
+      "new_sector_checks_passed": true
+    },
+    {
+      "modes": 2,
+      "full_sector_dimension": 2,
+      "new_sector_checks_passed": true
+    },
+    {
+      "modes": 3,
+      "full_sector_dimension": 2,
+      "new_sector_checks_passed": true
+    },
+    {
+      "modes": 4,
+      "full_sector_dimension": 2,
+      "new_sector_checks_passed": true
+    },
+    {
+      "modes": 5,
+      "full_sector_dimension": 2,
+      "new_sector_checks_passed": true
+    }
+  ],
+  "post_first_sector_states_checked": 480,
+  "successful_creation_channel_checks_before_and_after_evolution": 2560,
+  "maximum_rate_identity_error": 1.2212453270876722e-15,
+  "maximum_number_preservation_error": 0.0,
+  "internal_oscillation_times_checked": 101,
+  "maximum_internal_oscillation_error": 4.440892098500626e-16,
+  "four_mode_rates_divided_by_r": [
+    "3/4",
+    "1/2",
+    "1/4",
+    "0"
+  ],
+  "four_mode_conditional_mean_waiting_times_times_r": [
+    "4/3",
+    "2",
+    "4"
+  ],
+  "four_mode_consecutive_mean_waiting_ratios": [
+    "3/2",
+    "2"
+  ],
+  "checks_passed": true
+}
