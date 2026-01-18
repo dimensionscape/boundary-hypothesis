@@ -8,6 +8,8 @@ This manuscript develops that hypothesis through explicit assumptions and mathem
 
 **[Read the complete paper (PDF)](output/pdf/boundary-hypothesis.pdf)** · [Manuscript source](manuscript/paper.md) · [Research status](docs/research-status.md) · [Reproduce the calculations](docs/reproducibility.md)
 
+**[Read the layman's guide (PDF)](output/pdf/boundary-hypothesis-laymans-guide.pdf)** for a short, illustrated summary in plain language.
+
 The origin claim remains conjectural. The mathematical results establish conditional compatibility of the modeled behaviors; they do not prove that absence must produce actuality or that the Big Bang occurred through this mechanism.
 
 ## Contents
@@ -16,6 +18,8 @@ The origin claim remains conjectural. The mathematical results establish conditi
 |---|---|
 | `manuscript/paper.md` | Complete manuscript, proofs, references, and visible verification program |
 | `output/pdf/boundary-hypothesis.pdf` | Designed, self-contained paper with verification attachments |
+| `output/pdf/boundary-hypothesis-laymans-guide.pdf` | Three-page plain-language summary for casual readers |
+| `docs/laymans-guide.md` | Editable source of the companion summary |
 | `scripts/verify.py` | Exact program reproduced in Appendix D |
 | `scripts/check_manuscript.py` | Checks numbering, references, and agreement with the executable appendix |
 | `scripts/audits/` | Extended calculations for quantum gain, response structure, biased packing, and past persistence |
@@ -39,6 +43,7 @@ The main verification uses integer and rational arithmetic where specified, toge
 ```sh
 python -m pip install -r requirements-pdf.txt
 python scripts/build_pdf.py
+python scripts/build_guide_pdf.py
 ```
 
 The PDF contains the full argument, all eighteen numbered equations, eleven proved mathematical propositions, four appendices, and thirteen references. No separate attachment is needed to read it.
